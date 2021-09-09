@@ -1,1 +1,1 @@
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/Juansecod/GeoSAT-test/main/config/database-ER.png)
