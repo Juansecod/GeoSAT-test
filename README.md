@@ -2,7 +2,7 @@
 ### Empezando
 Solo sigue estos sencillos pasos para el correcto funcionamiento de nuestra API
 
-### 🤔Prerequisitos
+### Prerequisitos
 
 Para poder utilizar este proyecto sin nungun problema necesitamos contar con las siguientes herramientas:
 * [NodeJS](https://nodejs.org/es/) (Descargar la version mas reciente)
@@ -14,7 +14,7 @@ Para poder utilizar este proyecto sin nungun problema necesitamos contar con las
  * Un editor de texto o IDE, ya sea [Visual Studio Code](https://code.visualstudio.com/download) o el de su preferencia.
  * Opcional se puede instalar un cliente para el gestor de base de datos, en este caso usamos [DBeaver](https://dbeaver.io/download/)
 
-### 🤯Instalacion
+### Instalacion
 
 1. Clona el repositorio en tu maquina, para esto abrimos git bash y pegamos el siguiente comando(Tambien es valido descargar el archivo .zip y extraerlo)
    ```sh
