@@ -1,0 +1,37 @@
+{
+  "name": "geosat-test",
+  "version": "1.0.0",
+  "description": "Desarrollo prueba técnica para validar conocimientos en las tecnologías: GraphQL - PostgreSQL - NextJS",
+  "main": "app.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "eslintConfig": {
+    "extends": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juansecod/GeoSAT-test.git"
+  },
+  "author": "Juansecode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juansecod/GeoSAT-test/issues"
+  },
+  "homepage": "https://github.com/Juansecod/GeoSAT-test#readme",
+  "dependencies": {
+    "antd": "^4.16.13",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.3",
+    "next": "^11.1.2",
+    "pg": "^8.7.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
