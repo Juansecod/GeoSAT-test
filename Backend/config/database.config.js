@@ -2,7 +2,7 @@ const { Client } = require('pg');
 require('dotenv').config({path: '../.env' || './.env'});
 
 const clientGenerator = ({ user, host, database, password, port }) => {
-    return new Client({user, host, database, password, port});
+    return new Client({user, host, database, password: password || 'root', port});
 };
 
 const client = clientGenerator(process.env);

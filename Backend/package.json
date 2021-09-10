@@ -1,0 +1,28 @@
+{
+  "name": "geosat-api",
+  "version": "1.0.0",
+  "description": "Solo sigue estos sencillos pasos para el correcto funcionamiento de nuestra API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juansecod/GeoSAT-test.git"
+  },
+  "author": "Juansecode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juansecod/GeoSAT-test/issues"
+  },
+  "homepage": "https://github.com/Juansecod/GeoSAT-test#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.3",
+    "graphql-tools": "^8.2.0",
+    "pg": "^8.7.1"
+  }
+}
